@@ -47,7 +47,7 @@ Solution Approach:
 
 Used a simple brute-force approach to check all possible pairs.
 
-Time Complexity → O(n²) (works fine for small inputs).
+Time Complexity → O(n²).
 
 Space Complexity → O(1).
 
